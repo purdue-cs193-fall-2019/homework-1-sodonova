@@ -1,9 +1,10 @@
-# Sean O'Donovan's first CS 193 Homework
+# Sean O'Donovan's First CS 193 Homework
 
 I enjoy about CS 193:
 - the slide theme
 - the content
 - and the homework
+
 
 ## Welcome to GitHub Pages
 
